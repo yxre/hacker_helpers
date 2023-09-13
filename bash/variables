@@ -1,0 +1,6 @@
+
+
+
+VAR=$(ls)
+
+VAR2="String expansion ${VAR}"

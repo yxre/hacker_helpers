@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo -e "This connects to running docker process"
+
+docker attach <container-name>

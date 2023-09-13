@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+doctl kubernetes cluster kubeconfig save uuid-for-resource-id

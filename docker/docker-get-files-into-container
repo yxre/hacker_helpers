@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Useful for a one off"
+docker cp mycontainer:/Project/userfiles.txt userfiles.txt
